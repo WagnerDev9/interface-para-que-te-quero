@@ -1,0 +1,114 @@
+img{
+	max-width: 100%;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+ul{
+	list-style: none;
+}
+
+ul li{
+	padding-bottom: 30px;
+	margin-top: 20px;
+}
+.header1{
+	background-image: url("bg_header.jpg");
+	padding: 1px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: black;
+}
+footer{
+	background-image: url("bg_header.jpg");
+	padding: 30px;
+	background-position: center;
+	background-color: black;
+}
+
+.link {
+	color: white;
+	font-family: "Helvetica light";
+	padding: 1px
+}
+
+.link2002 {
+	color: red;
+	font-family: "Helvetica medium";
+	margin-left: 225px ;
+	font-size: 20px ;
+}
+.link2022 {
+	color: red;
+	font-family: "Helvetica light";
+	font-size: 20px ;
+}
+
+.link-image {
+	color: red;
+	font-family: "Helvetica";
+	font-size: 25px ;
+}
+header h1{
+	color: #ffffff;
+	font-family: "Helvetica";
+	text-align: center;
+}
+
+.principal{
+	display: grid;
+	grid-template-columns: 0.2fr 1fr 0.2fr;
+}
+
+.principal h1{
+	font-family: "Helvetica";
+	color: red;
+	font-size: 40px;
+}
+
+.respostas{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.respostas h2{
+	font-family: "helvetica medium";
+	margin-left:225px;
+	margin-top: 60px;
+}
+
+.respostas h3{
+	font-family: "Helvetica light";
+	margin-left:225px;
+	color: #686868
+}
+
+.titleA{
+	font-family: "Helvetica";
+	text-align: center ;
+	color: red;
+	font-size: 30px;
+
+}
+
+.atividades{
+	font-family: "helvetica";
+	margin-top: 40px;
+	margin-left: 170px;
+	font-size: 50px;
+	color: white;
+}
+
+.header2{
+	background-color: black;
+	padding: 1px;
+	max-width: 590px;
+	margin-top: 60px;
+}
